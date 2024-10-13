@@ -1,0 +1,31 @@
+*{
+    /* outline: solid blue 1px; */
+}
+
+
+#main{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    width: 960px;
+    height: 960px;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.header{
+    height: 30px;
+}
+
+
+.black{
+    color: black;
+    background-color: black;
+}
+
+button{
+
+}
